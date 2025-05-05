@@ -1,5 +1,5 @@
 ## Hi, I’m Alif Ichwanto 👋
-![Alif Ichwanto](img/header1.png)
+![Alif Ichwanto](img/header.png)
 - 👀 I’m interested in machine learning, statistics, data science
 - 🌱 I’m currently learning pascal, C, Java, HTML, PHP, SQL, R, Python,Tableau
 - 💞️ I’m looking to collaborate on Statistics Bureau Of Indonesia
