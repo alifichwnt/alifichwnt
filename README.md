@@ -21,4 +21,16 @@
 ##### 📊 Appearance Stats:
 [![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifichwnt&hide=contribs&show_icons=true&theme=tokyonight&include_all_commits=false)](https://github.com/alifichwnt/github-readme-stats)
 
+<h5 align="left">Wanna Games?</h5>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alifichwnt/alifichwnt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alifichwnt/alifichwnt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alifichwnt/alifichwnt/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ![absolute cinema](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNtYTQ3MG5uenNtdmZ6NHpnenMyMWJyOG94bTJ5bDBxc3BkY2lpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8hWjnNSicl7W0RFxzF/giphy.gif)
